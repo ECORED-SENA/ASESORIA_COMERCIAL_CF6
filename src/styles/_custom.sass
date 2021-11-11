@@ -1,0 +1,28 @@
+.banner-principal__img
+  img
+    animation: float 6s ease-in-out infinite
+
+@keyframes float
+  0%
+    transform: translatey(0px)
+  50%
+    transform: translatey(-20px)
+  100%
+    transform: translatey(0px)
+  
+.banner-principal__img img
+  width: 80%
+  max-width: 80%
+  margin-left: auto
+
+.cajon.color-primario
+  background-color: lighten($color-primario, 25%)
+
+.tarjeta.color-curuba
+  background-color:#FFECEA
+  border-radius: 0px
+
+.bloque-texto-a.color-primario
+  background-color: $color-primario
+  &::before
+    background-color: lighten($color-primario, 25%)
