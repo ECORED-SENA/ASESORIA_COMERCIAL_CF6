@@ -203,8 +203,7 @@
         .col-lg-9(data-aos="fade-right")
           .bloque-texto-a__texto.p-4
             p Para profundizar en el tema de #[i merchandising], se puede consultar el documento Estrategias de innovación en el #[i merchandising] en el capítulo 3, que se encuentra en el material complementario.
-    
-
+    separador
 </template>
 
 <script>

@@ -22,7 +22,41 @@
   background-color:#FFECEA
   border-radius: 0px
 
+.tarjeta.color-light-blue
+  background-color: #E2F6FF
+
+.tarjeta.color-light-blue--borde
+  background-color: #E2F6FF
+  border: solid 1px $color-primario
+
+.tarjeta.color-blue-gradient
+  background: linear-gradient(to right, #0D66BF, #7dc9ec)
+
+.tarjeta.color-light-red
+  background-color: #F5D9D6
+
+.tarjeta.color-light-red--borde
+  background-color: #F5D9D6
+  border: solid 1px $color-acento-contenido
+
+.tarjeta.color-light-yellow
+  background-color: #F5F0D8
+
+.tarjeta.color-light-yellow--borde
+  background-color: #F5F0D8
+  border: solid 1px $color-acento-botones
+
+.tarjeta-flip.color-acento-contenido .tarjeta-flip__img
+  background-color: #E9A89F !important
+
 .bloque-texto-a.color-primario
   background-color: $color-primario
   &::before
     background-color: lighten($color-primario, 25%)
+
+.bloque-texto-b.color-primario:before
+  background-color: lighten($color-primario, 25%)
+
+.bloque-texto-g.color-primario
+  background-color: #E2F6FF
+

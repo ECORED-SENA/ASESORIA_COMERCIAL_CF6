@@ -86,139 +86,172 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Fernández, R, M., y Pastor, J. (2007). Diccionario Below the Line. CEU.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.uchceu.es/vida_universitaria/observatorio/DiccionarioBelow/palabra.aspx?palabra=217&ant=138',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Kotler, P., Bower, J., y Makens, J. (2008). Marketing para el turismo. Pearson Prentice Hall.',
+    },
+    {
+      referencia: 'Mundo constructor. (2019). Visual merchandising. [gráfico].',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://www.mundoconstructor.com.ec/wp-content/uploads/2019/02/Datos-Visual-Merchandising.jpg',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Palomares, B., R. (2009). Merchandising, teoría, práctica estrategia. Gestión 2000.',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Pérez, L. M., Pérez, F., y Cristo, Y. (2018). Aplicación del merchandising de seducción y el merchandising visual en el Palenque de los. Revista Infociencia, 22(3), 1-12.',
+    },
+    {
+      referencia:
+        'Pipe Drive. (s. f.). Presentaciones de ventas exitosas: plantillas, ejemplos e ideas.',
+      link: 'https://www.pipedrive.com/es/blog/presentacion-ventas',
+    },
+    {
+      referencia:
+        'Real Academia Española. (2020). Diccionario de la lengua española.',
+      link: 'https://dle.rae.es/est%C3%ADmulo?m=form',
+    },
+    {
+      referencia:
+        'Robles, L., M. (2009). La publicidad en el punto de venta: su realidad y tendencias. Revista de Comunicación de la SEECI, (18)79-128.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'http://dx.doi.org/10.15198/seeci.2009.18.79-128. https://www.redalyc.org/pdf/5235/523552804003.pdf',
+    },
+    {
+      referencia: 'Seggiaro, M. (2017). Zonas y circulación. [Infografía].',
+      link: 'https://www.marcelaseggiaro.com/wp-content/uploads/2017/11/6.png',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Universia. (2020). Los mejores programas para hacer presentaciones como un profesional.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.universia.net/co/actualidad/orientacion-academica/mejores-programas-hacer-presentaciones-como-profesional-1098969.html',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Visualmerchanisingmkt. (2016). Glosario de términos visual <um>merchandising.</um>',
+      link: 'https://visualmerchandisingmkt.wordpress.com/',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Cabecera de góndola',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'extremo de una góndola o una estantería donde se colocan artículos de manera promocional (Visualmerchandisingmkt, 2016).',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: '<em>Display</em>',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'pequeños carteles independientes de cualquier material y que pueden contener publicidad sobre uno o varios artículos (Visualmerchandisingmkt, 2016).',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Escaparatismo',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'arte de organizar y adornar un establecimiento para que resulten atrayentes al público, aplicando las técnicas de diseño y montaje de los escaparates. El escaparatismo se puede resumir en cuatro palabras: pare, mire, infórmese y compre (Visualmerchandisingmkt, 2016).',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Imagen corporativa',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'imagen generalmente aceptada de lo que una compañía “significa”. La creación de una imagen corporativa es un ejercicio en la dirección de la percepción.',
     },
     {
-      termino: 'Moda',
+      termino: 'Lineal',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'expositores basados en su longitud, espacio para la venta vinculado a las paredes (Visualmerchandisingmkt, 2016).',
     },
     {
-      termino: 'Diseña',
+      termino: '<em>Merchandising</em>',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'su objetivo principal es llamar la atención dirigir al cliente hacia el producto y facilitar la compra (Visualmerchandisingmkt, 2016).',
     },
     {
-      termino: 'DIseño',
+      termino: '<em>Merchandising</em> de gestión',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'acción de poner un producto estrategicamente para su fácil acceso y venta. Por ello hay que ajustar y gestionar correctamente el espacio (Visualmerchandisingmkt, 2016).',
     },
     {
-      termino: 'Tipología',
+      termino: '<em>Merchandising</em> estratégico',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'conjunto de técnicas basadas principalmente en la presentación, rotación y rentabilidad de un producto en el punto de venta (Visualmerchandisingmkt, 2016).',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'PLV',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'publicidad en el lugar de venta que engloba expositores, carteles, <em>displays</em> y otros elementos que sean portadores de un mensaje publicitario y estén colocados en un punto de venta. También se conoce como «POS <em>display</em>», abreviatura de la expresión en inglés <em>Point of Sale Display</em> (Visualmerchandisingmkt, 2016).',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Puntos calientes',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'lugares dentro del establecimiento donde los clientes observan más los productos y tienen mayor actividad, esos lugares suelen ser probadores, mostradores y cajas (Visualmerchandisingmkt, 2016).',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Puntos calientes naturales',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'son situados en las cajas, el cruce de pasillos, un claro ejemplo las zonas por donde tienen que pasar para pagar donde se logra exponer gran cantidad de artículos para generar venta por impulso (Visualmerchandisingmkt, 2016).',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Puntos fríos',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'son aquellos que están mal situados y que el consumidor apenas visita, los clientes apenas se fijan en los productos situados en esos puntos por lo que tenemos que potenciarlo o convertirlos en puntos calientes (Visualmerchandisingmkt, 2016).',
+    },
+    {
+      termino: 'Rotación',
+      significado:
+        'tiempo que tarda en ser renovado el stock de un producto (Visualmerchandisingmkt, 2016).',
+    },
+    {
+      termino: 'Señalización',
+      significado:
+        'todo tipo de rotulación, textos, etiquetas, expositores utilizados en el interior de un escaparate o de un establecimiento (Visualmerchandisingmkt, 2016).',
+    },
+    {
+      termino: 'Surtido',
+      significado:
+        'conjunto de artículos que un establecimiento ofrece a la venta. Se refiere a la variedad de artículos presentes en la sala de ventas, no a la cantidad de un producto en concreto (Visualmerchandisingmkt, 2016).',
+    },
+    {
+      termino: 'Visual <em>merchandising</em>',
+      significado:
+        'parte esencial para cualquier establecimiento ya que ayuda a incrementar las ventas, mejorando la imagen y la marca ya sea por escaparates atractivos que inciten al público a contemplarlos más tiempo y hacer que entren al establecimiento (Visualmerchandisingmkt, 2016).',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Ortiz, G., C., y López, M., K. (2021). Estrategias de innovación en merchandising aplicadas a pymes del sector misceláneas en la localidad de Chapinero en Bogotá.',
+      tipo: 'Documento',
+      link: 'https://digitk.areandina.edu.co/handle/areandina/3838',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Morgan, T., Bohigas, G. Rojals, M., y Landrove, S. (2016). Visual merchandising: escaparates e interiores comerciales.',
+      tipo: 'Documento',
+      link:
+        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000088723 ',
+    },
+    {
+      texto: 'Apple. (2016). Apple – september event 2016. [Video]. Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=NS0txu_Kzl8',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: ['/downloads/prueba.pdf', '/downloads/prueba.pdf'],
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
+        'TEDx Talks. (2016). Hablando con Julis | Daniela Galindo | TEDxUniversidadPiloto.',
       tipo: 'Video',
-      link: ['https://www.google.com/', 'https://www.google.com/'],
+      link: 'https://www.youtube.com/watch?v=0SjVNTAVdgs',
+    },
+    {
+      texto:
+        'Universia. (2020). Los mejores programas para hacer presentaciones como un profesional.',
+      tipo: 'Artículo web',
+      link:
+        'https://www.universia.net/co/actualidad/orientacion-academica/mejores-programas-hacer-presentaciones-como-profesional-1098969.html',
     },
   ],
   creditos: {
