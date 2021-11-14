@@ -88,7 +88,7 @@
                   i.fas.fa-check-circle
                   | Aumento de la confianza del cliente hacia el producto y la empresa.
 
-    p.mb-4 De otro lado, una buena demostración requiere del siguiente proceso para que sean exitosas:
+    .h4 De otro lado, una buena demostración requiere del siguiente proceso para que sean exitosas:
 
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Figura 10

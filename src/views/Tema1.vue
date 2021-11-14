@@ -71,7 +71,8 @@
           .col-md-8.mb-4.mb-md-0
             p Hoy día, se puede decir que el escaparate o exhibidor es el principal vendedor del producto en el punto de venta, porque logra que el cliente se detenga y le motive diferentes percepciones, haciendo que más personas ingresen al punto de venta.
 
-    p.mb-4 El #[i merchandising], como parte del proceso de comunicación, presenta la interacción entre dos elementos básicos, el punto de venta, la marca o el comerciante, con el cliente o comprador. Se ha convertido en una parte fundamental activa y dinámica de la estrategia de la empresa, en el que se tienen los siguientes alcances:
+    span.etiqueta.mb-4 #[strong El merchandising], 
+    | como parte del proceso de comunicación, presenta la interacción entre dos elementos básicos, el punto de venta, la marca o el comerciante, con el cliente o comprador. Se ha convertido en una parte fundamental activa y dinámica de la estrategia de la empresa, en el que se tienen los siguientes alcances:
 
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Figura 1
@@ -80,12 +81,13 @@
     figure.mb-4(data-aos="flip-up")
       img(src='@/assets/curso/tema1/img03.svg')
     
-    p.mb-4 De acuerdo con su definición y objetivos, se puede determinar que #[strong la principal función del] #[i merchandising] #[strong es colocar, impulsar, hacer seguimiento y actualizar los productos, su exhibición y su publicidad].
+    p.mb-4 De acuerdo con su definición y objetivos, se puede determinar que 
+      span.etiqueta #[strong la principal función del merchandising es colocar, impulsar, hacer seguimiento y actualizar los productos, su exhibición y su publicidad].
     p.mb-4 Entre las funciones del #[i merchandising] se encuentran las siguientes:
 
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Figura 2
-      span #[i Objetivos del merchandising]
+      span #[i Funciones del merchandising]
     
     ImagenInfografica.color-acento-contenido.mb-5
       template(v-slot:imagen)
@@ -122,7 +124,8 @@
     figura.mb-4
       img(src='@/assets/curso/tema1/img06.svg')(data-aos="flip-up") 
     
-    p.mb-4 De la misma forma, hay clases de #[i merchandising] en relación con el ciclo de vida del producto. Existen diferentes clases de productos para cada una de las necesidades de los consumidores que, de acuerdo con sus motivaciones, los pueden adquirir en cualquier momento. Es importante identificar en el punto de venta cuáles productos pueden clasificarse en alguna de estas categorías:
+    p.mb-4 De la misma forma, hay clases de #[i merchandising] en relación con el ciclo de vida del producto. Existen diferentes clases de productos para cada una de las necesidades de los consumidores que, de acuerdo con sus motivaciones, los pueden adquirir en cualquier momento. 
+      span.etiqueta.text-bold Es importante identificar en el punto de venta cuáles productos pueden clasificarse en alguna de estas categorías:
 
     PasosA.color-primario.mb-5(tipo="n")
       .row
@@ -136,7 +139,7 @@
           img(src='@/assets/curso/tema1/img08.png') 
         .col-md-6
           h3 Productos de compra racional e irracional
-          p Los de compra irracional (impulsiva), es mejor situarlos en cajas. Los productos de compra racional (reflexiva) deben estar en una zona amplia y que no genere tensiones. 
+          p Los de #[strong compra irracional (impulsiva)], es mejor situarlos en cajas. Los productos de #[strong compra racional (reflexiva)] deben estar en una zona amplia y que no genere tensiones. 
       .row
         .col-md-6.mb-4.mb-md-0
           h3 Productos complementarios
@@ -163,8 +166,8 @@
       p.mb-4 Finalmente, es importante ponerlos en un espacio que facilite el surtido y la rotación.
       p.mb-4 Ahora bien, adicional a las clases, se pueden identificar dos tipos de #[i merchandising], el visual y el de gestión.
 
-      .h4 #[i Merchandising] visual
-      p.mb-4 El #[i merchandising] visual aprovecha la ubicación, el recorrido y la distribución del producto en el punto de venta para motivar la venta, sea irracional (impulsiva) o racional (reflexiva). Un buen diseño del espacio permite exhibir el producto estratégicamente para que siempre esté al alcance del cliente para que cumpla un propósito en la decisión de compra.
+    .h4 #[i Merchandising] visual
+    p.mb-4 El #[i merchandising] visual aprovecha la ubicación, el recorrido y la distribución del producto en el punto de venta para motivar la venta, sea irracional (impulsiva) o racional (reflexiva). Un buen diseño del espacio permite exhibir el producto estratégicamente para que siempre esté al alcance del cliente para que cumpla un propósito en la decisión de compra.
 
     .row.justify-content-center
       .col-md-9.mb-4(data-aos="flip-up")
@@ -189,6 +192,9 @@
 
     p.mb-4 Un buen análisis y estudio del mercado, junto con la política comercial, una política clara de surtido y las políticas de comunicación, traen consigo la satisfacción del cliente y el camino para obtener una mayor rentabilidad del punto de venta.
 
+    p.mb-4 La 
+      strong gestión estratégica del #[i merchandising], 
+      | busca generar ventas por impulso en función de:
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Figura 4
       span #[i Funciones de la gestión estratégica]

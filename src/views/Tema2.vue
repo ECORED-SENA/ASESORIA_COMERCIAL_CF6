@@ -167,43 +167,45 @@
           img(src='@/assets/curso/tema2/img22.svg')
 
       .tarjeta.color-light-blue.p-3(x="7%" y="53%" numero="+")
-        .h5.mb-2 La naturalidad: 
-        p la presentación física debe ser lo más natural para que se perciba el mensaje que se quiere transmitir.
+        .h5.mb-2 La naturalidad 
+        p La presentación física debe ser lo más natural para que se perciba el mensaje que se quiere transmitir.
       
       .tarjeta.color-light-blue.p-3(x="84%" y="42%" numero="+")
-        .h5.mb-2 La luz: 
-        p el conocimiento técnico del manejo de la luz al montar una vitrina es muy importante por los efectos negativos o positivos que pueda causar en la presentación de los productos.
+        .h5.mb-2 La luz 
+        p El conocimiento técnico del manejo de la luz al montar una vitrina es muy importante por los efectos negativos o positivos que pueda causar en la presentación de los productos.
 
       .tarjeta.color-light-blue.p-3(x="40%" y="14%" numero="+")
-        .h5.mb-2 Los colores: 
-        p son elementos visuales que provocan reacciones en el consumidor para atraer la atención hacia el producto. La aplicación adecuada del color en cuanto a su significado psicológico, genera reacciones que pueden motivar la compra del producto. 
+        .h5.mb-2 Los colores 
+        p Son elementos visuales que provocan reacciones en el consumidor para atraer la atención hacia el producto. La aplicación adecuada del color en cuanto a su significado psicológico, genera reacciones que pueden motivar la compra del producto. 
 
       .tarjeta.color-light-blue.p-3(x="46%" y="80%" numero="+")
-        .h5.mb-2 Los olores: 
-        p provocan diferentes reacciones, sensaciones y evocaciones que ejercen una influencia sobre el ánimo y los sentidos del consumidor.
+        .h5.mb-2 Los olores 
+        p Provocan diferentes reacciones, sensaciones y evocaciones que ejercen una influencia sobre el ánimo y los sentidos del consumidor.
 
       .tarjeta.color-light-blue.p-3(x="60%" y="52%" numero="+")
-        .h5.mb-2 La psicología: 
-        p busca llamar la atención, despertar el interés, incitar el deseo, hacer entrar al cliente.
+        .h5.mb-2 La psicología 
+        p Busca llamar la atención, despertar el interés, incitar el deseo, hacer entrar al cliente.
 
       .tarjeta.color-light-blue.p-3(x="28%" y="85%" numero="+")
-        .h5.mb-2 La composición: 
-        p es el arte de ordenar los volúmenes en un espacio, con armonía y gusto, guardando el orden y el sentido de la unidad.
+        .h5.mb-2 La composición 
+        p Es el arte de ordenar los volúmenes en un espacio, con armonía y gusto, guardando el orden y el sentido de la unidad.
 
       .tarjeta.color-light-blue.p-3(x="30%" y="48%" numero="+")
-        .h5.mb-2 La creatividad: 
-        p acorde con el momento, las costumbres, estilos de vida de los consumidores a persuadir, impresionar y satisfacer.
+        .h5.mb-2 La creatividad 
+        p Acorde con el momento, las costumbres, estilos de vida de los consumidores a persuadir, impresionar y satisfacer.
 
       .tarjeta.color-light-blue.p-3(x="10%" y="14%" numero="+")
-        .h5.mb-2 La mercancía: 
-        p es el protagonista de la vitrina, debe estar perfectamente expuesta, con el contraste de color acertado y con las proyecciones luminosas acertadas.
+        .h5.mb-2 La mercancía 
+        p Es el protagonista de la vitrina, debe estar perfectamente expuesta, con el contraste de color acertado y con las proyecciones luminosas acertadas.
 
       .tarjeta.color-light-blue.p-3(x="43%" y="30%" numero="+")
-        .h5.mb-2 La línea: 
-        p conduce la mirada por toda la exposición de la vitrina.
+        .h5.mb-2 La línea 
+        p Conduce la mirada por toda la exposición de la vitrina.
 
     .h4 Material P.O.P.
-    p.mb-4 El material P.O.P. es básicamente cualquier objeto o cosa que tenga un logo o emblema que represente una marca, empresa u organización que requiera que un público determinado la conozca. P.O.P. es una sigla en inglés que significa #[i Point Of Purchase] es decir “Punto de Compra”. De este significado se desprende que el material P.O.P. no es más que aquel que impulsa de manera indirecta el reconocimiento de una marca o producto entre el consumidor.
+    p.mb-4 El material P.O.P. es básicamente cualquier objeto o cosa que tenga un logo o emblema que represente una marca, empresa u organización que requiera que un público determinado la conozca. 
+      span.etiqueta.text-bold P.O.P. es una sigla en inglés que significa #[i Point Of Purchase] es decir “Punto de Compra”. 
+      | De este significado se desprende que el material P.O.P. no es más que aquel que impulsa de manera indirecta el reconocimiento de una marca o producto entre el consumidor.
 
     .row.align-items-center.mb-4
       .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
@@ -408,7 +410,7 @@ export default {
       {
         titulo: 'Benchmarking',
         texto:
-          'ReCon el mercado en constante evolución, es importante estar siempre un paso adelante. Por eso, hay que pensar en estrategias a corto y a largo plazo.',
+          'Con el mercado en constante evolución, es importante estar siempre un paso adelante. Por eso, hay que pensar en estrategias a corto y a largo plazo.',
         icono: require('@/assets/curso/tema2/img37.svg'),
       },
       {

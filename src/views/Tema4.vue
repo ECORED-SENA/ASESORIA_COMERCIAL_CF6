@@ -246,7 +246,7 @@
       .col-lg-7(data-aos="fade-left")
         img(src='@/assets/curso/tema4/img06.png')
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-5
       .col-lg-10
         .tarjeta.color-blue-gradient.p-4(data-aos="fade-right")
           .row.align-items-center.mb-4
@@ -259,7 +259,8 @@
               a.boton.color-acento-botones.me-3(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
                 span Descargar
                 i.fas.fa-file-download
-
+    
+    br
     .h4 Síntesis
     figure.mb-4(data-aos="flip-up")
       img(src='@/assets/curso/tema4/img07.svg')
