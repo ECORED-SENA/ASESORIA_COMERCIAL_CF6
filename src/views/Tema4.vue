@@ -22,7 +22,7 @@
       .col-lg-10.mb-4
         .cajon.color-primario.p-4(data-aos="fade-right")
           p Todo el proceso que incluye la elaboración de la presentación, puede generar un alto estrés, incluso para el vendedor más experimentado, por lo que es necesario tener en cuenta una serie de pasos concretos, planificados y en perfecto control.
-      .col-lg-10
+      //.col-lg-10
         .tarjeta.color-blue-gradient.p-4(data-aos="fade-right")
           .row.align-items-center.mb-4
             .col-lg-2
@@ -140,7 +140,7 @@
     p.mb-4 Más que el contenido, lo importante en una presentación, son aquellos elementos intangibles que juegan un papel importante durante el desarrollo. El lenguaje corporal, el tono de voz, la actitud, incluso, los movimientos, pueden ser determinantes para que el cliente pueda tomar la decisión de compra y cerrar el negocio. Algunos tips importantes para un buen desarrollo de una presentación se exponen en el siguiente video.
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/oxg7wHcdbrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     p.mb-4 Así mismo, en cuanto al lenguaje corporal, se recomienda lo siguiente:
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
@@ -193,7 +193,7 @@
             .col-lg-11
               p Si la presentación es presencial, ofrece un apretón de manos firme y decidido, pues genera una buena primera impresión. 
     
-    .row.justify-content-center.mb-4
+    //.row.justify-content-center.mb-4
       .col-lg-10
         .tarjeta.color-blue-gradient.p-4(data-aos="fade-right")
           .row.align-items-center.mb-4
@@ -246,7 +246,7 @@
       .col-lg-7(data-aos="fade-left")
         img(src='@/assets/curso/tema4/img06.png')
 
-    .row.justify-content-center.mb-5
+    //.row.justify-content-center.mb-5
       .col-lg-10
         .tarjeta.color-blue-gradient.p-4(data-aos="fade-right")
           .row.align-items-center.mb-4

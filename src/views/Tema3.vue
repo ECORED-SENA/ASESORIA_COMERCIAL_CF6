@@ -160,9 +160,9 @@ export default {
         imagen: require('@/assets/curso/tema3/img12.png'),
       },
       {
-        titulo: 'Demostraciones express',
+        titulo: 'Demostraciones <em>express</em>',
         texto:
-          'Una demostración <um>express</um> se enfoca principalmente en una solución o beneficio específico del producto. Se realiza en lugares públicos, con pocos invitados y se desarrolla una experiencia rápida y sencilla. Lo importante es mantener la atención del usuario.',
+          'Una demostración <em>express</em> se enfoca principalmente en una solución o beneficio específico del producto. Se realiza en lugares públicos, con pocos invitados y se desarrolla una experiencia rápida y sencilla. Lo importante es mantener la atención del usuario.',
         imagen: require('@/assets/curso/tema3/img13.png'),
       },
       {

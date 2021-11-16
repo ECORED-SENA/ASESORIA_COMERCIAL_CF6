@@ -120,8 +120,7 @@ export default {
     {
       referencia:
         'Robles, L., M. (2009). La publicidad en el punto de venta: su realidad y tendencias. Revista de Comunicación de la SEECI, (18)79-128.',
-      link:
-        'http://dx.doi.org/10.15198/seeci.2009.18.79-128. https://www.redalyc.org/pdf/5235/523552804003.pdf',
+      link: 'https://www.redalyc.org/pdf/5235/523552804003.pdf',
     },
     {
       referencia: 'Seggiaro, M. (2017). Zonas y circulación. [Infografía].',
@@ -267,7 +266,29 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Paolo Andrés Cantillo Largo',
+        cargo: 'Experto temático',
+        centro: 'Regional Antioquia - Centro de comercio',
+      },
+      {
+        nombre: 'Miroslava González Hernández',
+        cargo: 'Diseñador y evaluador instruccional',
+        centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+      },
+      {
+        nombre: 'Ana Catalina Córdoba Sus',
+        cargo: 'Revisora metodológica y pedagógica',
+        centro:
+          'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+      },
+      {
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
+        centro:
+          'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
       },
     ],
     desarrolloProducto: [
@@ -275,43 +296,96 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Carlo Julián Ramírez Benítez',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Diego Fernando Velasco Güiza',
         cargo: 'Desarrollo Front-End',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Caceres',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Camilo Villamizar Lizcano',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Lina Marcela Pérez Manchego',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Jessica Moreno Realpe',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Camilo Andrés Bolaño Rey',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Ángela María Maldonado Jaime',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Nelson Iván Vera Briceño',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Veimar Celis Melendez',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },

@@ -111,7 +111,58 @@
 
     .row.justify-content-center
       .col-md-9.mb-4
-        img(src='@/assets/curso/tema1/img05.svg')(data-aos="flip-up")   
+        ImagenInfografica.color-acento-contenido.mb-5
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/tema1/img05.svg') 
+          .tarjeta.color-acento-botones.p-3(x="29%" y="11%" numero="1")
+            .h4 Fabricante 
+            ul.lista-ul--color
+              li 
+                i.fas.fa-check-circle 
+                | Diseño del empaque.
+              li 
+                i.fas.fa-check-circle 
+                | Diseño de la publicidad en el punto de venta.
+              li 
+                i.fas.fa-check-circle 
+                | Controlar la exhibición en el punto de venta.
+              li 
+                i.fas.fa-check-circle 
+                | Relaciones en el canal entre F y D (#[i Trade marketing]).
+          .tarjeta.color-acento-botones.p-3(x="65%" y="20%" numero="2")
+            .h4 Distribuidor
+            ul.lista-ul--color 
+              li 
+                i.fas.fa-check-circle 
+                | Política de surtido y nivel de servicio: ¿qué?
+              li 
+                i.fas.fa-check-circle 
+                | Diseñar arquitectura externa e interna: ¿dónde?
+              li 
+                i.fas.fa-check-circle 
+                | Gestionar estratégicamente la superficie de ventas: ¿cómo?
+              li 
+                i.fas.fa-check-circle 
+                | Gestionar rotación y rentabilidad de los productos: ¿dónde y cómo?
+          .tarjeta.color-acento-botones.p-3(x="52%" y="53%" numero="3")
+            .h4 Cliente
+            ul.lista-ul--color 
+              li 
+                i.fas.fa-check-circle 
+                | Aspecto y presentación del negocio.
+              li 
+                i.fas.fa-check-circle 
+                | Trato y atención en el punto de venta.
+              li 
+                i.fas.fa-check-circle 
+                | Servicio posventa.
+              li 
+                i.fas.fa-check-circle 
+                | Ambiente de compra y lúdico.
+              li 
+                i.fas.fa-check-circle 
+                | Generación de placer.
     
     .h4 Clases y tipos de #[i merchandising]
 

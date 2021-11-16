@@ -11,7 +11,7 @@
     
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/GgoMlMMtVDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     p.mb-4 Existen estrategias de mercado que son fundamentales para que una empresa responda acertadamente a las necesidades de su cliente. En el siguiente video se presenta cómo la comunicación es una de las herramientas principales que contribuyen para llegar a un segmento de personas y estimular así el mercado.
     separador
