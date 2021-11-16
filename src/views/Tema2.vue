@@ -250,43 +250,24 @@
         p La publicidad en el punto de venta continúa generando un vínculo entre el consumidor y la marca a través de una adecuada promoción de sus productos; y #[strong esta se divide en las siguientes clases]:
 
     .row.justify-content-center.mb-4
-      .col-lg-3.col-sm-4.mb-4  
-        img(src='@/assets/curso/tema2/img24.svg')(data-aos="fade-right")
-      .col-lg-3.col-sm-4.mb-4
-        img(src='@/assets/curso/tema2/img25.svg')(data-aos="flip-up")
-      .col-lg-3.col-sm-4.mb-4
-        img(src='@/assets/curso/tema2/img26.svg')(data-aos="fade-left")
-      .col-lg-9.mb-4
-        .tarjeta.color-light-red.p-4(data-aos="flip-up")
-          p.mb-4 #[strong Puntual]: son aquellas que se realizan con el objeto de dar a conocer una promoción u oferta que tiene una duración determinada –menos de cuatro semanas– y que se realiza como algo extraordinario, es decir, que no entra dentro de la dinámica habitual del producto o servicio.
-          p.mb-4 #[strong Estacional]: es aquella que se realiza para un periodo determinado generalmente caracterizado por unos altos índices de consumo de ese producto o servicio. Por ejemplo los juguetes en Navidad o las cremas solares en verano. Suelen tener una duración de entre tres y cuatro meses.
-          p #[strong Fija]: es aquella que está fija en un punto de venta y que por lo tanto está fabricada con materiales menos flexibles, de mayor calidad y que mantienen sus cualidades pasado un tiempo prolongado.
+      .col-lg-9
+        ImagenInfografica.color-acento-botones.mb-5
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/tema2/img24.svg')
 
-    .row.justify-content-center.mb-4
-      .col-lg-3.col-sm-4.mb-4  
-        img(src='@/assets/curso/tema2/img24.svg')(data-aos="fade-right")
-      .col-lg-3.col-sm-4.mb-4
-        img(src='@/assets/curso/tema2/img25.svg')(data-aos="flip-up")
-      .col-lg-3.col-sm-4.mb-4
-        img(src='@/assets/curso/tema2/img26.svg')(data-aos="fade-left")
-      .col-lg-9.mb-4
-        .tarjeta.color-light-blue.p-4(data-aos="flip-up")
-          p.mb-4 #[strong Fijos]: son aquellos materiales que pueden soportar un largo periodo de tiempo en el punto de venta sin perder calidad. Suelen ser madera, metal y plástico. Se utilizan para acciones de más de tres meses.
-          p #[strong Temporales]: son materiales que se utilizan para acciones de pequeña duración o de escasa escala. Son retirados cuando se acaba el producto o las semanas marcadas por la agencia.
-
-    .row.justify-content-center.mb-4
-      .col-lg-3.col-sm-4.mb-4  
-        img(src='@/assets/curso/tema2/img24.svg')(data-aos="fade-right")
-      .col-lg-3.col-sm-4.mb-4
-        img(src='@/assets/curso/tema2/img25.svg')(data-aos="flip-up")
-      .col-lg-3.col-sm-4.mb-4
-        img(src='@/assets/curso/tema2/img26.svg')(data-aos="fade-left")
-      .col-lg-9.mb-4
-        .tarjeta.color-light-yellow.p-4(data-aos="flip-up")
-          p.mb-4 #[strong De marca]: el objetivo es generar recuerdo de marca o asociar un determinado producto a una firma. Para ello la PLV debe guardar una coherencia con la imagen de marca para generar corporatividad y asociación.
-          p.mb-4 #[strong De producto o servicio]: su finalidad es promocionar un producto para diferenciarlo de la competencia o simplemente recordar la existencia del mismo.
-          p.mb-4 #[strong Promoción]: destacar una oferta extraordinaria que aporta un valor distintivo y adicional al consumidor.
-          p #[strong Lanzamiento]: su fin es promocionar un nuevo producto presentándolo al público y llamando la atención sobre el mismo para que se tenga conocimiento de su salida al mercado
+          .tarjeta.color-light-red.p-3(x="15%" y="99%")
+            p.mb-4 #[strong Puntual]: son aquellas que se realizan con el objeto de dar a conocer una promoción u oferta que tiene una duración determinada –menos de cuatro semanas– y que se realiza como algo extraordinario, es decir, que no entra dentro de la dinámica habitual del producto o servicio.
+            p.mb-4 #[strong Estacional]: es aquella que se realiza para un periodo determinado generalmente caracterizado por unos altos índices de consumo de ese producto o servicio. Por ejemplo los juguetes en Navidad o las cremas solares en verano. Suelen tener una duración de entre tres y cuatro meses.
+            p #[strong Fija]: es aquella que está fija en un punto de venta y que por lo tanto está fabricada con materiales menos flexibles, de mayor calidad y que mantienen sus cualidades pasado un tiempo prolongado.
+          .tarjeta.color-light-blue.p-3(x="50%" y="99%")
+            p.mb-4 #[strong Fijos]: son aquellos materiales que pueden soportar un largo periodo de tiempo en el punto de venta sin perder calidad. Suelen ser madera, metal y plástico. Se utilizan para acciones de más de tres meses.
+            p #[strong Temporales]: son materiales que se utilizan para acciones de pequeña duración o de escasa escala. Son retirados cuando se acaba el producto o las semanas marcadas por la agencia.
+          .tarjeta.color-light-yellow.p-3(x="85%" y="99%")
+            p.mb-4 #[strong De marca]: el objetivo es generar recuerdo de marca o asociar un determinado producto a una firma. Para ello la PLV debe guardar una coherencia con la imagen de marca para generar corporatividad y asociación.
+            p.mb-4 #[strong De producto o servicio]: su finalidad es promocionar un producto para diferenciarlo de la competencia o simplemente recordar la existencia del mismo.
+            p.mb-4 #[strong Promoción]: destacar una oferta extraordinaria que aporta un valor distintivo y adicional al consumidor.
+            p #[strong Lanzamiento]: su fin es promocionar un nuevo producto presentándolo al público y llamando la atención sobre el mismo para que se tenga conocimiento de su salida al mercado
     
     p.mb-4 De igual forma, la publicidad en el punto de venta puede clasificarse en tres categorías: según el tiempo de permanencia en el punto de venta, según los materiales y según el objetivo de comunicación.
 
