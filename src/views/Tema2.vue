@@ -108,8 +108,8 @@
               .row.justify-content-center.mb-4
                 .col-4
                   img(src='@/assets/curso/tema2/img17.svg')
-              h1.text-center Vitrinas promocionales
-              p Exponen productos promocionados o de oferta, identificando una clara oportunidad de compra.
+              h1.text-center Vitrinas informativas
+              p Su misión consiste en dar a conocer nuevos o desconocidos productos o servicios que supongan un cambio o un avance en la concepción de los mismos.
 
       .col-sm-6.col-xl-4.mb-4
         .tarjeta.tarjeta-flip.color-acento-contenido(@mouseover="indicadorTarjetaFlip = false")
@@ -120,8 +120,8 @@
               .row.justify-content-center.mb-4
                 .col-4
                   img(src='@/assets/curso/tema2/img18.svg')
-              h1.text-center Vitrinas comerciales
-              p Presentan los productos que conforman el surtido del establecimiento con un claro directo mensaje de venta.
+              h1.text-center Vitrinas estacionales
+              p Contienen productos sometidos a una fuerte estacionalidad en función de la época del año y motivados por la moda.
 
       .col-sm-6.col-xl-4.mb-4
         .tarjeta.tarjeta-flip.color-acento-contenido(@mouseover="indicadorTarjetaFlip = false")
@@ -132,8 +132,8 @@
               .row.justify-content-center.mb-4
                 .col-4
                   img(src='@/assets/curso/tema2/img19.svg')
-              h1.text-center Vitrinas de precios
-              p Son aquellas que, ante todo, destacan el precio del producto, siendo este el principal motivo de compra.
+              h1.text-center Vitrinas promocionales
+              p Exponen productos promocionados o de oferta, identificando una clara oportunidad de compra.
 
       .col-sm-6.col-xl-4.mb-4
         .tarjeta.tarjeta-flip.color-acento-contenido(@mouseover="indicadorTarjetaFlip = false")
@@ -144,8 +144,8 @@
               .row.justify-content-center.mb-4
                 .col-4
                   img(src='@/assets/curso/tema2/img20.svg')
-              h1.text-center Vitrinas informativas
-              p Su misión consiste en dar a conocer nuevos o desconocidos productos o servicios que supongan un cambio o un avance en la concepción de los mismos.
+              h1.text-center Vitrinas de precios
+              p Son aquellas que, ante todo, destacan el precio del producto, siendo este el principal motivo de compra.
 
       .col-sm-6.col-xl-4.mb-4
         .tarjeta.tarjeta-flip.color-acento-contenido(@mouseover="indicadorTarjetaFlip = false")
@@ -156,8 +156,8 @@
               .row.justify-content-center.mb-4
                 .col-4
                   img(src='@/assets/curso/tema2/img21.svg')
-              h1.text-center Vitrinas estacionales
-              p Contienen productos sometidos a una fuerte estacionalidad en función de la época del año y motivados por la moda.
+              h1.text-center Vitrinas comerciales
+              p Presentan los productos que conforman el surtido del establecimiento con un claro directo mensaje de venta.
 
     p.mb-4 En el uso estratégico de las vitrinas, se destacan los siguientes aspectos:
 
