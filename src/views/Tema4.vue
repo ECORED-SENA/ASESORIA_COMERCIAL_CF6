@@ -38,86 +38,87 @@
     p.mb-4 Las presentaciones pueden ser de muchos tipos: de negocios, para producto nuevo o de relanzamiento, marca personal o de producto, profesionales o académicas, entre otras. También pueden estar dirigidas a públicos o personas de interés, por ejemplo, en la propia empresa, a un público general, accionistas o inversores.
     p.mb-4 Como bien se ha desarrollado a lo largo de este apartado, las presentaciones son recursos gráficos que apoyan en la promoción o venta de un producto y que presenta una estructura donde se va dando a conocer diferentes áreas o aspectos de un discurso profesional, académico o publicitario; de ahí la importancia de acertar en el tipo de presentación que se perfila. Se pueden clasificar las presentaciones de la siguiente forma:
 
-    .row.justify-content-center.mb-4
+    #MapaGroup01.row.justify-content-center.mb-4
       .col-lg-10
         .h4.text-center Clasificación de presentaciones
       .col-lg-3
-        .tarjeta.color-light-blue--borde.p-2.mb-1
-          p.text-bold.text-center Trabajo
-        .tarjeta.color-light-blue--borde.p-2.mb-1
-          p.text-bold.text-center Breve o #[i pitch]
-        .tarjeta.color-light-blue--borde.p-2.mb-1
-          p.text-bold.text-center Línea
-        .tarjeta.color-light-blue--borde.p-2.mb-1
-          p.text-bold.text-center Marca
-        .tarjeta.color-light-blue--borde.p-2.mb-1
-          p.text-bold.text-center Producto
+        .row.justify-content-center
+          button.col-6.col-md-12.tarjeta.color-light-blue--borde.p-3.mb-2(data-bs-toggle='collapse' data-bs-target='.multi-collapse1' aria-expanded='true' aria-controls='.multi-collapse1')
+            p.mb-0.text-bold.text-center Trabajo
+          button.col-6.col-md-12.tarjeta.color-light-blue--borde.p-3.mb-2(data-bs-toggle='collapse' data-bs-target='.multi-collapse2' aria-expanded='true' aria-controls='.multi-collapse2')
+            p.mb-0.text-bold.text-center Breve o #[i pitch]
+          button.col-6.col-md-12.tarjeta.color-light-blue--borde.p-3.mb-2(data-bs-toggle='collapse' data-bs-target='.multi-collapse3' aria-expanded='true' aria-controls='.multi-collapse3')
+            p.mb-0.text-bold.text-center Línea
+          button.col-6.col-md-12.tarjeta.color-light-blue--borde.p-3.mb-2(data-bs-toggle='collapse' data-bs-target='.multi-collapse4' aria-expanded='true' aria-controls='.multi-collapse4')
+            p.mb-0.text-bold.text-center Marca
+          button.col-6.col-md-12.tarjeta.color-light-blue--borde.p-3.mb-2(data-bs-toggle='collapse' data-bs-target='.multi-collapse5' aria-expanded='true' aria-controls='.multi-collapse5')
+            p.mb-0.text-bold.text-center Producto
 
       .col-lg-4
-        .tarjeta.color-light-yellow--borde.p-4
+        .multi-collapse1.tarjeta.color-light-yellow--borde.p-4.collapse.show(data-bs-parent='#MapaGroup01')
           .row.justify-content-center
             .col-lg-3.col-sm-6
               img(src='@/assets/curso/tema4/img08.svg')
           .h4.text-center Trabajo
           p Suele tener un carácter más interno. El público son tus trabajadores o socios.
 
-        .tarjeta.color-light-yellow--borde.p-4
+        .multi-collapse2.tarjeta.color-light-yellow--borde.p-4.collapse(data-bs-parent='#MapaGroup01')
           .row.justify-content-center
             .col-lg-3.col-sm-6
               img(src='@/assets/curso/tema4/img09.svg')
           .h4.text-center Breve o #[i pitch]
           p Presenta un producto o marca en un tiempo récord. En ocasiones las presentaciones requieren ajustarse a unas normas, como suele suceder en las rondas de búsqueda de inversiones. 
 
-        .tarjeta.color-light-yellow--borde.p-4
+        .multi-collapse3.tarjeta.color-light-yellow--borde.p-4.collapse(data-bs-parent='#MapaGroup01')
           .row.justify-content-center
             .col-lg-3.col-sm-6
               img(src='@/assets/curso/tema4/img10.svg')
           .h4.text-center Línea
           p Se caracteriza por estar en la web y se puede trasladar a cualquier lugar, puede estar almacenada en internet y ser enviada por correo electrónico.
 
-        .tarjeta.color-light-yellow--borde.p-4
+        .multi-collapse4.tarjeta.color-light-yellow--borde.p-4.collapse(data-bs-parent='#MapaGroup01')
           .row.justify-content-center
             .col-lg-3.col-sm-6
               img(src='@/assets/curso/tema4/img11.svg')
           .h4.text-center Marca
           p En este tipo de presentación se puede hablar del proceso de configuración, de los valores que se quieren transmitir en la marca.
 
-        .tarjeta.color-light-yellow--borde.p-4
+        .multi-collapse5.tarjeta.color-light-yellow--borde.p-4.collapse(data-bs-parent='#MapaGroup01')
           .row.justify-content-center
             .col-lg-3.col-sm-6
               img(src='@/assets/curso/tema4/img12.svg')
           .h4.text-center Producto
           p Presenta todo el proceso de desarrollo o de ciclo de vida del producto. La presentación de producto, puede ser la antesala a la demostración.
 
-        .tarjeta.color-light-yellow--borde.p-4
+        .multi-collapse6.tarjeta.color-light-yellow--borde.p-4.collapse(data-bs-parent='#MapaGroup01')
           .row.justify-content-center
             .col-lg-3.col-sm-6
               img(src='@/assets/curso/tema4/img13.svg')
           .h4.text-center Inversionistas
           p Se deben resolver los puntos más importantes para aquellos que deben financiar el producto, servicio o iniciativa. En el caso de las rondas de inversión, son fundamentales varias partes: quién pide el dinero, para qué y cómo se va a devolver.
  
-        .tarjeta.color-light-yellow--borde.p-4
+        .multi-collapse7.tarjeta.color-light-yellow--borde.p-4.collapse(data-bs-parent='#MapaGroup01')
           .row.justify-content-center
             .col-lg-3.col-sm-6
               img(src='@/assets/curso/tema4/img14.svg')
           .h4.text-center Corporativa
           p No existe un estilo único aunque sí es cierto que generalmente se piden modelos de presentación más serios y formales. Aquí se realiza una presentación de los valores organizacionales y elementos estratégicos de la empresa, tales como visión, misión, entre otros.
 
-        .tarjeta.color-light-yellow--borde.p-4
+        .multi-collapse8.tarjeta.color-light-yellow--borde.p-4.collapse(data-bs-parent='#MapaGroup01')
           .row.justify-content-center
             .col-lg-3.col-sm-6
               img(src='@/assets/curso/tema4/img15.svg')
           .h4.text-center Plan de negocio
           p Usualmente, las presentaciones de los planes de negocio tienen una estructura definida de acuerdo con los inversores o aquellos a quienes vayamos a presentar la idea de negocio deben resolver todas sus dudas. En algunas convocatorias o invitaciones determinan qué estructura de presentación se debe realizar.
 
-        .tarjeta.color-light-yellow--borde.p-4
+        .multi-collapse9.tarjeta.color-light-yellow--borde.p-4.collapse(data-bs-parent='#MapaGroup01')
           .row.justify-content-center
             .col-lg-3.col-sm-6
               img(src='@/assets/curso/tema4/img16.svg')
           .h4.text-center Profesional
           p Aquí se enmarcan aquellas que presentan un currículum u hoja de vida profesional, logros, títulos obtenidos, trabajos desarrollados, entre otros aspectos que ayudan a convencer a un empresario o empleador. Son creativas y diferentes de acuerdo con el tipo de profesión.
 
-        .tarjeta.color-light-yellow--borde.p-4
+        .multi-collapse10.tarjeta.color-light-yellow--borde.p-4.collapse(data-bs-parent='#MapaGroup01')
           .row.justify-content-center
             .col-lg-3.col-sm-6
               img(src='@/assets/curso/tema4/img17.svg')
@@ -125,17 +126,18 @@
           p.mb-4 Similar que en la presentación de plan de negocio, tienen una estructura definida.
           p Principalmente, presentan factores interesantes para los inversionistas.
 
-      .col-lg-3
-        .tarjeta.color-light-red--borde.p-2.mb-1
-          p.text-bold.text-center Proyecto
-        .tarjeta.color-light-red--borde.p-2.mb-1
-          p.text-bold.text-center Profesional
-        .tarjeta.color-light-red--borde.p-2.mb-1
-          p.text-bold.text-center Plan de negocio
-        .tarjeta.color-light-red--borde.p-2.mb-1
-          p.text-bold.text-center Corporativa
-        .tarjeta.color-light-red--borde.p-2.mb-1
-          p.text-bold.text-center Inversionistas
+      .col-lg-3.mt-2
+        .row.justify-content-center
+          button.col-6.col-md-12.tarjeta.color-light-red--borde.p-3.mb-2(data-bs-toggle='collapse' data-bs-target='.multi-collapse6' aria-expanded='true' aria-controls='.multi-collapse6')
+            p.mb-0.text-bold.text-center Proyecto
+          button.col-6.col-md-12.tarjeta.color-light-red--borde.p-3.mb-2(data-bs-toggle='collapse' data-bs-target='.multi-collapse7' aria-expanded='true' aria-controls='.multi-collapse7')
+            p.mb-0.text-bold.text-center Profesional
+          button.col-6.col-md-12.tarjeta.color-light-red--borde.p-3.mb-2(data-bs-toggle='collapse' data-bs-target='.multi-collapse8' aria-expanded='true' aria-controls='.multi-collapse8')
+            p.mb-0.text-bold.text-center Plan de negocio
+          button.col-6.col-md-12.tarjeta.color-light-red--borde.p-3.mb-2(data-bs-toggle='collapse' data-bs-target='.multi-collapse9' aria-expanded='true' aria-controls='.multi-collapse9')
+            p.mb-0.text-bold.text-center Corporativa
+          button.col-6.col-md-12.tarjeta.color-light-red--borde.p-3.mb-2(data-bs-toggle='collapse' data-bs-target='.multi-collapse10' aria-expanded='true' aria-controls='.multi-collapse10')
+            p.mb-0.text-bold.text-center Inversionistas
 
     p.mb-4 Más que el contenido, lo importante en una presentación, son aquellos elementos intangibles que juegan un papel importante durante el desarrollo. El lenguaje corporal, el tono de voz, la actitud, incluso, los movimientos, pueden ser determinantes para que el cliente pueda tomar la decisión de compra y cerrar el negocio. Algunos tips importantes para un buen desarrollo de una presentación se exponen en el siguiente video.
     figure
