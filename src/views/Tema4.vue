@@ -22,7 +22,7 @@
       .col-lg-10.mb-4
         .cajon.color-primario.p-4(data-aos="fade-right")
           p Todo el proceso que incluye la elaboración de la presentación, puede generar un alto estrés, incluso para el vendedor más experimentado, por lo que es necesario tener en cuenta una serie de pasos concretos, planificados y en perfecto control.
-      //.col-lg-10
+      .col-lg-10
         .tarjeta.color-blue-gradient.p-4(data-aos="fade-right")
           .row.align-items-center.mb-4
             .col-lg-2
@@ -128,15 +128,15 @@
 
       .col-lg-3.mt-2
         .row.justify-content-center
-          button.col-6.col-md-12.tarjeta.color-light-red--borde.p-3.mb-2(data-bs-toggle='collapse' data-bs-target='.multi-collapse6' aria-expanded='true' aria-controls='.multi-collapse6')
+          button.col-6.col-md-12.tarjeta.color-light-red--borde.p-3.mb-2(data-bs-toggle='collapse' data-bs-target='.multi-collapse10' aria-expanded='true' aria-controls='.multi-collapse10')
             p.mb-0.text-bold.text-center Proyecto
-          button.col-6.col-md-12.tarjeta.color-light-red--borde.p-3.mb-2(data-bs-toggle='collapse' data-bs-target='.multi-collapse7' aria-expanded='true' aria-controls='.multi-collapse7')
+          button.col-6.col-md-12.tarjeta.color-light-red--borde.p-3.mb-2(data-bs-toggle='collapse' data-bs-target='.multi-collapse9' aria-expanded='true' aria-controls='.multi-collapse9')
             p.mb-0.text-bold.text-center Profesional
           button.col-6.col-md-12.tarjeta.color-light-red--borde.p-3.mb-2(data-bs-toggle='collapse' data-bs-target='.multi-collapse8' aria-expanded='true' aria-controls='.multi-collapse8')
             p.mb-0.text-bold.text-center Plan de negocio
-          button.col-6.col-md-12.tarjeta.color-light-red--borde.p-3.mb-2(data-bs-toggle='collapse' data-bs-target='.multi-collapse9' aria-expanded='true' aria-controls='.multi-collapse9')
+          button.col-6.col-md-12.tarjeta.color-light-red--borde.p-3.mb-2(data-bs-toggle='collapse' data-bs-target='.multi-collapse7' aria-expanded='true' aria-controls='.multi-collapse7')
             p.mb-0.text-bold.text-center Corporativa
-          button.col-6.col-md-12.tarjeta.color-light-red--borde.p-3.mb-2(data-bs-toggle='collapse' data-bs-target='.multi-collapse10' aria-expanded='true' aria-controls='.multi-collapse10')
+          button.col-6.col-md-12.tarjeta.color-light-red--borde.p-3.mb-2(data-bs-toggle='collapse' data-bs-target='.multi-collapse6' aria-expanded='true' aria-controls='.multi-collapse6')
             p.mb-0.text-bold.text-center Inversionistas
 
     p.mb-4 Más que el contenido, lo importante en una presentación, son aquellos elementos intangibles que juegan un papel importante durante el desarrollo. El lenguaje corporal, el tono de voz, la actitud, incluso, los movimientos, pueden ser determinantes para que el cliente pueda tomar la decisión de compra y cerrar el negocio. Algunos tips importantes para un buen desarrollo de una presentación se exponen en el siguiente video.
@@ -195,7 +195,7 @@
             .col-lg-11
               p Si la presentación es presencial, ofrece un apretón de manos firme y decidido, pues genera una buena primera impresión. 
     
-    //.row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4
       .col-lg-10
         .tarjeta.color-blue-gradient.p-4(data-aos="fade-right")
           .row.align-items-center.mb-4
@@ -248,7 +248,7 @@
       .col-lg-7(data-aos="fade-left")
         img(src='@/assets/curso/tema4/img06.png')
 
-    //.row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5
       .col-lg-10
         .tarjeta.color-blue-gradient.p-4(data-aos="fade-right")
           .row.align-items-center.mb-4
