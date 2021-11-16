@@ -31,7 +31,7 @@
               .h4.text-white Ejemplo de presentación
               p.text-white Para esto, se usará la presentación que en Apple han realizado del iPhone 7 siempre bajo una estética profesional, limpia y atractiva han logrado que la expectativa envuelva cada presentación, y por lo general, nunca decepcionan. Para comprender qué es una presentación, observe la que se encuentra en el material complementario.
             .col-lg-2
-              a.boton.color-acento-botones.me-3(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+              a.boton.color-acento-botones.me-3(href="https://www.youtube.com/watch?v=NS0txu_Kzl8" target="_blank" type="application/pdf")
                 span Descargar
                 i.fas.fa-file-download
 
@@ -205,7 +205,7 @@
               .h4.text-white Desarrollo de una presentación
               p.text-white Para ver un ejemplo, se invita a observar el video Hablando con Julis, donde se pueden observar los momentos de la presentación anteriormente expuestos. El video se encuentra en el material complementario.
             .col-lg-2
-              a.boton.color-acento-botones(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+              a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=0SjVNTAVdgs" target="_blank")
                 span Ver Video
                 i.fas.fa-video
 
@@ -258,7 +258,7 @@
               .h4.text-white Medios de apoyo
               p.text-white En el artículo Los mejores programas para hacer presentaciones como un profesional escrito por Universia, y que se encuentra en el material complementario, se exponen las diez herramientas más utilizadas para el desarrollo de presentaciones dinámicas y visualmente agradables.
             .col-lg-2
-              a.boton.color-acento-botones.me-3(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank" type="application/pdf")
+              a.boton.color-acento-botones.me-3(href="https://www.universia.net/co/actualidad/orientacion-academica/mejores-programas-hacer-presentaciones-como-profesional-1098969.html" target="_blank" type="application/pdf")
                 span Descargar
                 i.fas.fa-file-download
     
