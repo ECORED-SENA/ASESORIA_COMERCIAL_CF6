@@ -140,7 +140,7 @@
             p.mb-0.text-bold.text-center Inversionistas
 
     p.mb-4 Más que el contenido, lo importante en una presentación, son aquellos elementos intangibles que juegan un papel importante durante el desarrollo. El lenguaje corporal, el tono de voz, la actitud, incluso, los movimientos, pueden ser determinantes para que el cliente pueda tomar la decisión de compra y cerrar el negocio. Algunos tips importantes para un buen desarrollo de una presentación se exponen en el siguiente video.
-    figure
+    figure.mb-4
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/oxg7wHcdbrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
