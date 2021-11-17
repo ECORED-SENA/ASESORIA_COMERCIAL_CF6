@@ -20,7 +20,7 @@
     p.mb-4 Entre los propósitos de la exhibición, se tienen:
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Figura 5
-      span #[i Propósitos de la exhibición]
+      span Propósitos de la exhibición
 
     figure.mb-4
       img(src='@/assets/curso/tema2/img02.svg')(data-aos="flip-up")
@@ -29,11 +29,15 @@
     
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Figura 6
-      span #[i Zonas frías y calientes según los accesos y la circulación]
+      span Zonas frías y calientes según los accesos y la circulación
   
     figure.mb-4
       img(src='@/assets/curso/tema2/img03.png')(data-aos="flip-up")
-      figcaption Nota. Tomada de Seggiaro (2017).
+    
+    .row.mb-4
+      .col-md-3
+        .tarjeta.color-gray.p-1      
+          p.mb-0 Nota. Tomada de Seggiaro (2017).
     
     p.mb-4 Este análisis debe realizarse de acuerdo con el espacio en el punto de venta y definir los tipos de exhibición que se pueden aplicar. Los consumidores realizan gran parte de las decisiones de compra directamente en el piso de ventas, por lo que una exhibición efectiva de los productos puede influir en varias de ellas.
 
@@ -72,7 +76,7 @@
 
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Figura 7
-      span #[i Tipos de vitrinas] 
+      span Tipos de vitrinas
     
     .row.justify-content-center.mb-5
       .col-sm-6.col-xl-4.mb-4
@@ -213,7 +217,7 @@
       .col-lg-6.mb-0
         .cajon-b.color-acento-contenido.p-3.mb-5
           p.mb-0 Este concepto ha estado enmarcado entre diferentes opiniones y aportes de profesionales del #[i marketing]. Entre las diferentes definiciones y acuerdos que se han escrito, se toman como referencia algunos de ellos para describir esta importante estrategia de mercadeo:
-
+    <br><br>
     .h4 Definiciones de P.O.P.
 
     .row.mb-5
@@ -221,7 +225,7 @@
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h2.mb-0 POPAI y Graphispack Asociación la definen como una “técnica del marketing (…) cuyo objetivo es llamar la atención sobre los detalles o características del producto (…) que otorgan un valor añadido al mismo sobre el resto de productos promocionados en el sitio en el que se puede comprar
+            h4.mb-0 POPAI y Graphispack Asociación la definen como una “técnica del marketing (…) cuyo objetivo es llamar la atención sobre los detalles o características del producto (…) que otorgan un valor añadido al mismo sobre el resto de productos promocionados en el sitio en el que se puede comprar
             i.fas.fa-quote-right
             br
             p (Robles, 2009, p. 92).
@@ -230,7 +234,7 @@
         .bloque-texto-b.color-primario.p-4.mb-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h2.mb-0 A pesar de ser en el punto de venta donde el consumidor toma la mayor parte de decisiones de compra, la publicidad en el punto de venta, continúa siendo la gran desconocida, aunque la venta impersonal, las grandes superficies comerciales y la alta competencia por la gran variedad de productos, han proliferado el uso de la misma
+            h4.mb-0 A pesar de ser en el punto de venta donde el consumidor toma la mayor parte de decisiones de compra, la publicidad en el punto de venta, continúa siendo la gran desconocida, aunque la venta impersonal, las grandes superficies comerciales y la alta competencia por la gran variedad de productos, han proliferado el uso de la misma
             i.fas.fa-quote-right
             br
             p Mahave (2003, p. 10) 
@@ -240,7 +244,7 @@
         .bloque-texto-b.color-primario.p-4.mb-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h2.mb-0 La una buena disposición del producto en el punto de venta, hace que la presentación del producto adquiera un “rol activo”, y sea más atractivo mediante “su colocación en el punto de venta, el fraccionamiento del producto, el envase y presentación y la exhibición del producto” 
+            h4.mb-0 La una buena disposición del producto en el punto de venta, hace que la presentación del producto adquiera un “rol activo”, y sea más atractivo mediante “su colocación en el punto de venta, el fraccionamiento del producto, el envase y presentación y la exhibición del producto” 
             i.fas.fa-quote-right
             br
             p (Kotler, Bower y Makens, 2008).
@@ -366,7 +370,7 @@
 
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Figura 8
-      span #[i Recomendaciones para el uso del P.O.P.]
+      span Recomendaciones para el uso del P.O.P.
     
     .row.justify-content-center.mb-4
       .col-lg-10

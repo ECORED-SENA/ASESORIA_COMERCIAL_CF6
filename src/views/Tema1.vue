@@ -71,12 +71,13 @@
           .col-md-8.mb-4.mb-md-0
             p Hoy día, se puede decir que el escaparate o exhibidor es el principal vendedor del producto en el punto de venta, porque logra que el cliente se detenga y le motive diferentes percepciones, haciendo que más personas ingresen al punto de venta.
 
-    span.etiqueta.mb-4 #[strong El merchandising], 
-    | como parte del proceso de comunicación, presenta la interacción entre dos elementos básicos, el punto de venta, la marca o el comerciante, con el cliente o comprador. Se ha convertido en una parte fundamental activa y dinámica de la estrategia de la empresa, en el que se tienen los siguientes alcances:
+    p.mb-4
+      span.etiqueta.mb-4 #[strong El merchandising], 
+      | como parte del proceso de comunicación, presenta la interacción entre dos elementos básicos, el punto de venta, la marca o el comerciante, con el cliente o comprador. Se ha convertido en una parte fundamental activa y dinámica de la estrategia de la empresa, en el que se tienen los siguientes alcances:
 
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Figura 1
-      span #[i Objetivos del merchandising]
+      span Objetivos del #[i merchandising]
     
     figure.mb-4(data-aos="flip-up")
       img(src='@/assets/curso/tema1/img03.svg')
@@ -87,7 +88,7 @@
 
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Figura 2
-      span #[i Funciones del merchandising]
+      span Funciones del #[i merchandising]
     
     ImagenInfografica.color-acento-contenido.mb-5
       template(v-slot:imagen)
@@ -129,7 +130,9 @@
                 | Controlar la exhibición en el punto de venta.
               li 
                 i.fas.fa-check-circle 
-                | Relaciones en el canal entre F y D (#[i Trade marketing]).
+                p
+                  | Relaciones en el canal entre F y D 
+                  | #[i (Trade marketing)].
           .tarjeta.color-acento-botones.p-3(x="65%" y="20%" numero="2")
             .h4 Distribuidor
             ul.lista-ul--color 
@@ -170,7 +173,7 @@
 
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Figura 3
-      span #[i Clases de #[i merchandising]]
+      span Clases de #[i merchandising]
 
     figura.mb-4
       img(src='@/assets/curso/tema1/img06.svg')(data-aos="flip-up") 
@@ -179,19 +182,19 @@
       span.etiqueta.text-bold Es importante identificar en el punto de venta cuáles productos pueden clasificarse en alguna de estas categorías:
 
     PasosA.color-primario.mb-5(tipo="n")
-      .row
+      .row.align-items-center
         .col-md-6.mb-4.mb-md-0
           h3 Productos de atracción
           p Son los más vendidos y deben distribuirse en todo el establecimiento para que el consumidor lo pueda recorrer.
         .col-md-6(data-aos="fade-left")
           img(src='@/assets/curso/tema1/img07.png')
-      .row
+      .row.align-items-center
         .col-md-6.mb-4.mb-md-0(data-aos="fade-right")
           img(src='@/assets/curso/tema1/img08.png') 
         .col-md-6
           h3 Productos de compra racional e irracional
           p Los de #[strong compra irracional (impulsiva)], es mejor situarlos en cajas. Los productos de #[strong compra racional (reflexiva)] deben estar en una zona amplia y que no genere tensiones. 
-      .row
+      .row.align-items-center
         .col-md-6.mb-4.mb-md-0
           h3 Productos complementarios
           p Son productos que complementan a otros, por ejemplo, el café puede ser complementario de la leche o viceversa. Estos productos deben situarse en secciones seguidas.
@@ -201,7 +204,7 @@
     .cajon.color-primario.p-4.mb-4(data-aos="fade-right")
       p.mb-4 Combinando las dos clasificaciones anteriores, clases de #[i merchandising] y clases de productos, deben tenerse en cuenta los siguientes factores:
       .row.justify-content-center.mb-4
-        .col-lg-10
+        .col-lg-11
           ul.lista-ul--color
             li 
               i.fas.fa-check-circle
@@ -224,10 +227,15 @@
       .col-md-9.mb-4(data-aos="flip-up")
         figure
           img(src='@/assets/curso/tema1/img10.svg')
-          figcaption Tomado de Mundo constructor (2019).
+
+    .row.mb-4
+      .col-md-3
+        .tarjeta.color-gray.p-1      
+          p.mb-0 Tomado de Mundo constructor (2019).
   
     p.mb-4 En el #[i merchandising] visual también se tienen en cuenta factores como la decoración del establecimiento, las áreas de exposición, tamaño, iluminación, entre otros.
 
+    br
     .h4 #[i Merchandising] de gestión
     p.mb-4 Se denomina #[i merchandising] de gestión porque apoya sus decisiones basado en cuatro áreas fundamentales: estudio del mercado, gestión del espacio, gestión del surtido y la comunicación en el punto de venta. Este tipo de #[i merchandising] conlleva los siguientes procesos:
 
@@ -248,7 +256,7 @@
       | busca generar ventas por impulso en función de:
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Figura 4
-      span #[i Funciones de la gestión estratégica]
+      span Funciones de la gestión estratégica
     
     figure.mb-4(data-aos="flip-up")
       img(src='@/assets/curso/tema1/img15.svg') 

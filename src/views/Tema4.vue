@@ -37,9 +37,9 @@
 
     p.mb-4 Las presentaciones pueden ser de muchos tipos: de negocios, para producto nuevo o de relanzamiento, marca personal o de producto, profesionales o académicas, entre otras. También pueden estar dirigidas a públicos o personas de interés, por ejemplo, en la propia empresa, a un público general, accionistas o inversores.
     p.mb-4 Como bien se ha desarrollado a lo largo de este apartado, las presentaciones son recursos gráficos que apoyan en la promoción o venta de un producto y que presenta una estructura donde se va dando a conocer diferentes áreas o aspectos de un discurso profesional, académico o publicitario; de ahí la importancia de acertar en el tipo de presentación que se perfila. Se pueden clasificar las presentaciones de la siguiente forma:
-
+    br
     #MapaGroup01.row.justify-content-center.mb-4
-      .col-lg-10
+      .col-lg-10.mb-4
         .h4.text-center Clasificación de presentaciones
       .col-lg-3
         .row.justify-content-center
@@ -147,7 +147,7 @@
     p.mb-4 Así mismo, en cuanto al lenguaje corporal, se recomienda lo siguiente:
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Figura 11
-      span #[i Lenguaje corporal]
+      span Lenguaje corporal
     
     .row.justify-content-center.mb-4
       .col-lg-4(data-aos="fade-down")

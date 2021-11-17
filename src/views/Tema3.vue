@@ -22,7 +22,7 @@
     p.mb-4 Es fundamental tener en cuenta que una buena demostración debe considerarse como un factor que refuerce los argumentos que lleven al cierre de la venta, por tanto, debe cumplir con dos propósitos principalmente, dirigirse a las necesidades del consumidor y crear confianza, tal como se describe a continuación.
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Figura 9
-      span #[i Objetivos de una demostración]
+      span Objetivos de una demostración
 
     .row.align-items-center.mb-4
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
@@ -88,11 +88,11 @@
                   i.fas.fa-check-circle
                   | Aumento de la confianza del cliente hacia el producto y la empresa.
 
-    .h4 De otro lado, una buena demostración requiere del siguiente proceso para que sean exitosas:
+    .h4.mb-5 De otro lado, una buena demostración requiere del siguiente proceso para que sean exitosas:
 
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-left")
       h5 Figura 10
-      span #[i Proceso de una demostración]
+      span Proceso de una demostración
     
     .row.justify-content-center.mb-4
       .col-lg-10
