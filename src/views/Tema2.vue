@@ -244,7 +244,7 @@
         .bloque-texto-b.color-primario.p-4.mb-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h4.mb-0 La una buena disposición del producto en el punto de venta, hace que la presentación del producto adquiera un “rol activo”, y sea más atractivo mediante “su colocación en el punto de venta, el fraccionamiento del producto, el envase y presentación y la exhibición del producto” 
+            h4.mb-0 Una buena disposición del producto en el punto de venta, hace que la presentación del producto adquiera un “rol activo”, y sea más atractivo mediante “su colocación en el punto de venta, el fraccionamiento del producto, el envase y presentación y la exhibición del producto” 
             i.fas.fa-quote-right
             br
             p (Kotler, Bower y Makens, 2008).

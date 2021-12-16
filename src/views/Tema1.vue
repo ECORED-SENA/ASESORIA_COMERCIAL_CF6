@@ -107,7 +107,7 @@
       .tarjeta.color-acento-botones.p-3(x="60%" y="90%" numero="F")
         p Uso adecuado del espacio en la estantería.
 
-    p.mb-4 Sin embargo, existe otro el elemento del #[i merchandising] que es importante destacar y es la relación entre el fabricante y distribuidor, en donde el distribuidor debe convertirse en un socio estratégico, con la capacidad de difundir las bondades del producto y de la marca para atraer más consumidores al punto de venta, elemento que se combina con la publicidad del producto.
+    p.mb-4 Sin embargo, existe el otro elemento del #[i merchandising] que es importante destacar y es la relación entre el fabricante y distribuidor, en donde el distribuidor debe convertirse en un socio estratégico, con la capacidad de difundir las bondades del producto y de la marca para atraer más consumidores al punto de venta, elemento que se combina con la publicidad del producto.
     p.text-bold De ahí que se encuentren otras funciones que cumple el #[i merchandising] a partir de los diferentes públicos, tal y como se aprecia a continuación.
 
     .row.justify-content-center

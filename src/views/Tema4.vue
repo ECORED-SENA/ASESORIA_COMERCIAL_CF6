@@ -32,8 +32,8 @@
               p.text-white Para esto, se usará la presentación que en Apple han realizado del iPhone 7 siempre bajo una estética profesional, limpia y atractiva han logrado que la expectativa envuelva cada presentación, y por lo general, nunca decepcionan. Para comprender qué es una presentación, observe la que se encuentra en el material complementario.
             .col-lg-2
               a.boton.color-acento-botones.me-3(href="https://www.youtube.com/watch?v=NS0txu_Kzl8" target="_blank" type="application/pdf")
-                span Descargar
-                i.fas.fa-file-download
+                span Ver Video
+                i.fas.fa-video
 
     p.mb-4 Las presentaciones pueden ser de muchos tipos: de negocios, para producto nuevo o de relanzamiento, marca personal o de producto, profesionales o académicas, entre otras. También pueden estar dirigidas a públicos o personas de interés, por ejemplo, en la propia empresa, a un público general, accionistas o inversores.
     p.mb-4 Como bien se ha desarrollado a lo largo de este apartado, las presentaciones son recursos gráficos que apoyan en la promoción o venta de un producto y que presenta una estructura donde se va dando a conocer diferentes áreas o aspectos de un discurso profesional, académico o publicitario; de ahí la importancia de acertar en el tipo de presentación que se perfila. Se pueden clasificar las presentaciones de la siguiente forma:

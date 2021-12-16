@@ -30,7 +30,7 @@
           .col-lg-2
             img(src='@/assets/curso/tema3/img02.svg') 
         .h4 Dirigirse a las necesidades específicas del consumidor
-        p Orientarse a su impulso o deseo de degustar, tocar, oler, sentir y ver, estos aspectos se unen para brindarle al consumidor una experiencia cercana con el producto. Darle la oportunidad al consumidor que esté en contacto con el producto, lo lleva integrar todos sus deseos, expectativas e ideales, y a través de la “prueba y ejemplo” puede tomar una mejor decisión de compra.
+        p Orientarse a su impulso o deseo de degustar, tocar, oler, sentir y ver, estos aspectos se unen para brindarle al consumidor una experiencia cercana con el producto. Darle la oportunidad al consumidor que esté en contacto con el producto, lo lleva a integrar todos sus deseos, expectativas e ideales, y a través de la “prueba y ejemplo” puede tomar una mejor decisión de compra.
       .col-lg-4.mb-4.mb-lg-0
         img(src='@/assets/curso/tema3/img03.svg')(data-aos="flip-up")
       .col-lg-4.mb-0(data-aos="fade-left")

@@ -114,7 +114,7 @@ export default {
     },
     {
       referencia:
-        'Real Academia Española. (2020). Diccionario de la lengua española.',
+        'Real Academia Española. (2020). Diccionario de la lengua española. "Estímulo"',
       link: 'https://dle.rae.es/est%C3%ADmulo?m=form',
     },
     {
@@ -386,6 +386,16 @@ export default {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Alvaro Andrés Angarita Ramirez',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Daniel Felipe Varón Molina',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
     ],
   },
